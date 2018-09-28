@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+    background-repeat: repeat;
+    padding-top: 100px; 
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+
+#screen {
+    background-color: lightyellow;
+    background-position: center;
+    overflow: auto;
+    padding-bottom: 200px;
+    text-align: center;
+    
+}
+
+#title {
+    color: blue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.start-button {
+
+    padding-top:20px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom:20px;
+}
